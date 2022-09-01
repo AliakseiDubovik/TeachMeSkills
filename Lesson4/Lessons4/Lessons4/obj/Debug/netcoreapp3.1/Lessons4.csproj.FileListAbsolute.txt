@@ -1,0 +1,14 @@
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\bin\Debug\netcoreapp3.1\Lessons4.exe
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\bin\Debug\netcoreapp3.1\Lessons4.deps.json
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\bin\Debug\netcoreapp3.1\Lessons4.runtimeconfig.json
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\bin\Debug\netcoreapp3.1\Lessons4.runtimeconfig.dev.json
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\bin\Debug\netcoreapp3.1\Lessons4.dll
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\bin\Debug\netcoreapp3.1\Lessons4.pdb
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\obj\Debug\netcoreapp3.1\Lessons4.csproj.AssemblyReference.cache
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\obj\Debug\netcoreapp3.1\Lessons4.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\obj\Debug\netcoreapp3.1\Lessons4.AssemblyInfoInputs.cache
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\obj\Debug\netcoreapp3.1\Lessons4.AssemblyInfo.cs
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\obj\Debug\netcoreapp3.1\Lessons4.csproj.CoreCompileInputs.cache
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\obj\Debug\netcoreapp3.1\Lessons4.dll
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\obj\Debug\netcoreapp3.1\Lessons4.pdb
+D:\RepositoryTMS\TeachMeSkills\Lesson4\Lessons4\Lessons4\obj\Debug\netcoreapp3.1\Lessons4.genruntimeconfig.cache
