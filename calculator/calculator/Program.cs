@@ -6,8 +6,32 @@ namespace calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Type a number, and press ENTER.: /n1 - Add /n 2 - Subtraction /n 3 - Multipliply /n 4 - Devide /n 5 - Percentage of the number");
-            Console.ReadKey();
+            Console.WriteLine("Type a number, and press ENTER.: /n 1 - Add /n 2 - Subtraction /n 3 - Multipliply /n 4 - Devide /n 5 - Percentage");
+            string operation =Console.ReadLine();
+            if (operation == "1")
+                { 
+            }
+            if (operation == "2")
+            {
+            }
+            if (operation == "3")
+            {
+            }
+            if (operation == "4")
+            {
+            }
+            if (operation == "5")
+            {
+            }
+
+
+
+            int  Add, Substraction, Multiply, Devide, Persentage;
+            Add = '1';
+            Substraction = '2';
+            Multiply = '3';
+            Devide = '4';
+            Persentage = '5';
             PerformAdd();
             PerformSubtract();
             PerformMultiply();
