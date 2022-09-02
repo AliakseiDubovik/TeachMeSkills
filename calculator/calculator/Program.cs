@@ -9,19 +9,25 @@ namespace calculator
             Console.WriteLine("Type a number, and press ENTER.: /n 1 - Add /n 2 - Subtraction /n 3 - Multipliply /n 4 - Devide /n 5 - Percentage");
             string operation =Console.ReadLine();
             if (operation == "1")
-                { 
+                {
+                PerformAdd();
             }
             if (operation == "2")
             {
+                PerformSubtract();
             }
             if (operation == "3")
+                
             {
+                PerformMultiply();
             }
             if (operation == "4")
             {
+                PerformDivide();
             }
             if (operation == "5")
             {
+                PerformPercentage();
             }
 
 
