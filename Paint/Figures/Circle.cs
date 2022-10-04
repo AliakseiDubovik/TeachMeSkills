@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Figures
 {
-    class Circle : Shape
-    {
-    }
+    //class Circle : Shape
+    //{
+    //}
 }

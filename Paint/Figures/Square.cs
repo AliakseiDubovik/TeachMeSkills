@@ -23,9 +23,9 @@ namespace Figures
         public override void Print()
         {
 
-            for (int i = 0; i <= Width; i++)
+            for (int i = 0; i < Width; i++)
             {
-                for (int j = 0; j <= Width; j++)
+                for (int j = 0; j < Width; j++)
                 {
                     Console.Write("*");
                 }

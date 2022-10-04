@@ -4,14 +4,14 @@ using System.Text;
 
 namespace Figures
 {
-    class Rectangle : Shape
-    {
-        public static void MakeNewSquare()
-        {
+    //class Rectangle : Shape
+    //{
+    //    public static void MakeNewSquare()
+    //    {
 
-        }
+    //    }
 
 
 
-    }
+    //}
 }

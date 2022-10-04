@@ -26,10 +26,10 @@ namespace Figures
             switch (operation)
             {
                 case "Triangle":
-                    MakeNewTriangle();
+                    Triangle.MakeNewTriangle();
                     break;
                 case "Square":
-                    MakeNewSquare();
+                    Square.MakeNewSquare();
                     break;
                 //case "Rectangle":
                 //    MakeNewRectangle();
@@ -45,20 +45,6 @@ namespace Figures
 
         }
 
-        public static void MakeNewTriangle()
-        {
-            Console.Write("Enter height:");
-            int height = int.Parse(Console.ReadLine());
-            var triangle = new Triangle(height);
-            triangle.Print();
-        }
-        public static void MakeNewSquare()
-        {
-            Console.Write("Enter width:");
-            int width = int.Parse(Console.ReadLine());
-            var square = new Square(width);
-            square.Print();
-        }
 
     }
 }

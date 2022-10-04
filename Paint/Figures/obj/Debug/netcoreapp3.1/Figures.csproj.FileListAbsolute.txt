@@ -19,3 +19,10 @@ D:\RepositoryTMS\TeachMeSkills\Paint\Figures\obj\Debug\netcoreapp3.1\Figures.Ass
 D:\RepositoryTMS\TeachMeSkills\Paint\Figures\obj\Debug\netcoreapp3.1\Figures.csproj.CoreCompileInputs.cache
 D:\RepositoryTMS\TeachMeSkills\Paint\Figures\obj\Debug\netcoreapp3.1\Figures.dll
 D:\RepositoryTMS\TeachMeSkills\Paint\Figures\obj\Debug\netcoreapp3.1\Figures.pdb
+D:\RepositoryTMS\TeachMeSkills\Paint\Figures\bin\Debug\netcoreapp3.1\Figures.exe
+D:\RepositoryTMS\TeachMeSkills\Paint\Figures\bin\Debug\netcoreapp3.1\Figures.deps.json
+D:\RepositoryTMS\TeachMeSkills\Paint\Figures\bin\Debug\netcoreapp3.1\Figures.runtimeconfig.json
+D:\RepositoryTMS\TeachMeSkills\Paint\Figures\bin\Debug\netcoreapp3.1\Figures.runtimeconfig.dev.json
+D:\RepositoryTMS\TeachMeSkills\Paint\Figures\bin\Debug\netcoreapp3.1\Figures.dll
+D:\RepositoryTMS\TeachMeSkills\Paint\Figures\bin\Debug\netcoreapp3.1\Figures.pdb
+D:\RepositoryTMS\TeachMeSkills\Paint\Figures\obj\Debug\netcoreapp3.1\Figures.genruntimeconfig.cache
