@@ -6,5 +6,12 @@ namespace Figures
 {
     class Rectangle : Shape
     {
+        public static void MakeNewSquare()
+        {
+
+        }
+
+
+
     }
 }

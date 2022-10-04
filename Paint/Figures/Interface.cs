@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Figures
 {
-    Interface IPrintable 
+    interface IPrintable 
     {
         void Print();
     }

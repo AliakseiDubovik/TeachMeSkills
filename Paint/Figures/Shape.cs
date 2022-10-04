@@ -10,5 +10,6 @@ namespace Figures
     {
         public abstract void Print();
 
+
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Figures\\Figures\\Figures.csproj": {}
+    "D:\\RepositoryTMS\\TeachMeSkills\\Paint\\Figures\\Figures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Figures\\Figures\\Figures.csproj": {
+    "D:\\RepositoryTMS\\TeachMeSkills\\Paint\\Figures\\Figures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Figures\\Figures\\Figures.csproj",
+        "projectUniqueName": "D:\\RepositoryTMS\\TeachMeSkills\\Paint\\Figures\\Figures.csproj",
         "projectName": "Figures",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Figures\\Figures\\Figures.csproj",
+        "projectPath": "D:\\RepositoryTMS\\TeachMeSkills\\Paint\\Figures\\Figures.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Figures\\Figures\\obj\\",
+        "outputPath": "D:\\RepositoryTMS\\TeachMeSkills\\Paint\\Figures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

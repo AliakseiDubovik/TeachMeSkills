@@ -8,11 +8,10 @@ namespace Figures
     {
         public static void MakeNewSquare()
         {
-            Console.Write("Enter height:");
-            int height = int.Parse(Console.ReadLine());
             Console.Write("Enter width:");
             int width = int.Parse(Console.ReadLine());
             var square = new Square(width);
+           
             square.Print();
         }
         public int Width { get; set; }
@@ -24,9 +23,9 @@ namespace Figures
         public override void Print()
         {
 
-            for (int i = 0; i == Width; i++)
+            for (int i = 0; i <= Width; i++)
             {
-                for (int j = 0; j == i; j++)
+                for (int j = 0; j <= Width; j++)
                 {
                     Console.Write("*");
                 }
